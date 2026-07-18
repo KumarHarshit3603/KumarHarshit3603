@@ -4,7 +4,7 @@
 <p align="center">
   🎓 B.Tech CSE @ IIIT Kota (2023–2027) <br>
   💻 Full Stack Developer <br>
-  🧠 350+ LeetCode Problems Solved <br>
+  🧠 500+ LeetCode Problems Solved <br>
   🚀 Passionate about Scalable Systems & Backend Engineering
 </p>
 
