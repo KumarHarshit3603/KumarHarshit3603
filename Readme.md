@@ -43,7 +43,7 @@
 </p>
 
 ---
-S
+
 ## 💼 Experience
 
 ### 🧑‍💻 SDE Intern – Dicotr (Remote)
